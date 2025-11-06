@@ -4,8 +4,8 @@
       <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" />
     </td>
     <td style="padding-left: 20px;" valign="top">
-      <h1>Hi 👋, I'm John</h1>
-    <h3>Software Engineer from Vietnam</h3>
+      <h1>Hi 👋, I'm Andy Nguyen</h1>
+    <h3>Software Engineer from Houston, Texas</h3>
   <p>
     <strong>Software Engineer</strong> passionate about building scalable systems, automation tools and backend services.<br>
     Enjoys solving complex problems and always open to exploring new technologies.<br>
@@ -25,8 +25,8 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@khoidang-z3i9n)
 [![Portfolio](https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-five-xi-40.vercel.app)
-![Email](https://img.shields.io/badge/Email-khoidang2110@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Phone](https://img.shields.io/badge/Phone-%2B84%20902447357-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Email](https://img.shields.io/badge/Email-andynguyen03006@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Phone](https://img.shields.io/badge/Phone-%2B84%28325072828-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 
 
